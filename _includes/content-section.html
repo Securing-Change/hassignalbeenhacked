@@ -1,13 +1,15 @@
 <div class="content-section">
     <!-- Left Column: FAQ Section -->
     <div class="faq">
-      {{ content }} <!-- This will display the FAQ content from index.md -->
+      {% include faq.md %} | markdownify  <!-- This will display the FAQ content from index.md -->
     </div>
   
     <!-- Right Column: Social Media Widget -->
     <div class="widget">
       <h2>Follow Us</h2>
-      <p>Find us on Mastodon or BlueSky.</p>
+      <p>Find us on Mastodon.</p>
+      <a href="https://infosec.exchange/@HasSignalBeenHacked">@HasSignalBeenHacked@infosec.exchange</a>
+      <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="hassignalbeenhacked" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
       <!-- Add your social media widget code here -->
     </div>
-  </div>
+  </div> 
