@@ -1,10 +1,10 @@
 # Has Signal Been Hacked?
 
-This Jekyll site is dedicated to addressing and debunking circulating rumors that the encrypted messaging app Signal has been hacked.
+Dedicated to addressing and debunking constant rumors that the messaging app Signal has been hacked or compromised.
 
 Has Signal Been Hacked? Probobably not. 
 
-This site will be updated if there are credible sources about the Signal app being compromised in anyway. We wil also include information about what you can do if this were to happen. But for now, please don't spread rumors without checking sources. 
+This site will be updated promptly with information from credible sources should the Signal app ever be compromised. Until then, we urge users to refrain from spreading rumors and rely on verified information from official sources.
 
 Follow us on Mastodon: [@HasSignalBeenHacked@infosec.exchange](https://infosec.exchange/@HasSignalBeenHacked)
 
