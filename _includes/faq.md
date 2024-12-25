@@ -9,7 +9,7 @@ Then ask them to provide a source that is more reliable than "trust me bro". Goo
 
  
 ### I have a good source that shows Signal was compromised but the site still says "No".
-Find us on Mastodon and/or BlueSky and let us know.
+Find us on Mastodon and let us know.
 
 
 ### Why did you make this site?

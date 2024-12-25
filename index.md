@@ -2,5 +2,7 @@
 layout: default
 title: Home
 ---
-{% include {{ site.hero_file }} %}
+
+{% include hero-section.html %}
+
 {% include content-section.html %}
