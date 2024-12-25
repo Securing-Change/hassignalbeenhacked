@@ -2,7 +2,9 @@ title: Has Signal Been Hacked?
 description: A site to debunk rumors about Signal being hacked. 
 theme: jekyll-theme-slate
 url: "https://hassignalbeenhacked.info"
-markdown: kramdown
+markdown: CommonMark
+commonmark:
+  options: ["hardbreaks"]
 hero_file: "hero-no.md"
 favicon: "/assets/images/favicon_no.png"
 plugins:

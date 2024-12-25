@@ -11,3 +11,5 @@ gem 'public_suffix'
 
 # Add "Last Updated" tag
 gem 'jekyll-last-modified-at'
+
+gem 'faraday-retry'
