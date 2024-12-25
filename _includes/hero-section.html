@@ -1,4 +1,7 @@
 <div class="hero-section">
+    {% capture included_content %}
     {% include {{ site.hero_file }} %}
+    {% endcapture %}
+    {{ included_content | markdownify }} 
 </div>
 
