@@ -25,7 +25,7 @@ Probably not.
 
  
 ## How often is this site updated?
->The moment we are able to confirm that Signal has been compromised, we will update it. [Last update: 12/30/2024]
+>The moment we are able to confirm that Signal has been compromised, we will update it. [Last update: Dec 30, 2024]
 
  
 ## What can I do to help stop misinformation?
