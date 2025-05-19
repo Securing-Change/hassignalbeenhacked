@@ -25,10 +25,13 @@ Probably not.
 
  
 ## How often is this site updated?
->The moment we are able to confirm that Signal has been compromised, we will update it. [Last update: March 26, 2025]
+>The moment we are able to confirm that Signal has been compromised, we will update it. [Last update: May 19, 2025]
 
  
 ## What can I do to help stop misinformation?
 >Don't spread information you can't verify yourself, and encourage others to do the same. Demand a source from anyone claiming that Signal has been compromised. Go search for a source yourself. Signal is one of the most important apps in the world, and had it actually been compromised, it would be widely reported.
+
+## I have suggestions for this site.
+>Submit a ticket! [Github Issues](https://github.com/Securing-Change/hassignalbeenhacked/issues)
 
 {% endraw %}
